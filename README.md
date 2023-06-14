@@ -96,8 +96,8 @@ source codes:
 
 ### EXTRA
 
-Have a look at [Amazon EMR](https://aws.amazon.com/emr/) (Elastic MapReduce). It will be useful for the next classes 
-and your evaluation project. You can start playing with it by following this tutorial: https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-gs.html
+Have a look at [Amazon EMR Serverless](https://docs.aws.amazon.com/emr/latest/EMR-Serverless-UserGuide/emr-serverless.html) (Elastic MapReduce). It will be useful for the next classes 
+and your evaluation project. You can start playing with it by following this tutorial: [https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-gs.html](https://docs.aws.amazon.com/emr/latest/EMR-Serverless-UserGuide/getting-started.html)
 
 
 [Data Minded Academy]: https://www.dataminded.academy/
